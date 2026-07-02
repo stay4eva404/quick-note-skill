@@ -1,0 +1,14 @@
+# Runtime data
+.quicknote/
+
+# IDE / Editor
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
