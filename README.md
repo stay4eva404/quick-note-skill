@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](README.en.md) | **中文**
+
 # ⚡ QuickNote
 
 > **一个"不打断工作流"的通用速记 Skill**
@@ -118,6 +120,8 @@ Trae → ~/.trae/skills/，Cursor → ~/.cursor/skills/）。
 | 🔍 检索 | "列出 quicknote" · "有哪些未解决的" · "看看待办" · "找关于 xxx 的记录" |
 | 🗑️ 删除 | "删除 xxx" · "删掉 xxx quicknote" · "把 xxx 删了" · "这条记录不要了" |
 
+> 💡 **双语支持**：英文触发词同样有效（"jot this down" / "mark xxx as resolved" / "list quicknotes" / "delete xxx" ...）。skill 会自动适配你的对话语言，生成中文或英文 quicknote。
+
 ### 30 秒上手
 
 ```
@@ -141,6 +145,7 @@ Trae → ~/.trae/skills/，Cursor → ~/.cursor/skills/）。
 ## ✨ 特性
 
 - 🌐 **通用场景** — 不限代码，bug / 想法 / 调研 / 生活 / 灵感皆可记录
+- 🌐 **语言自适应** - 跟随用户对话语言，生成中文或英文 quicknote
 - 🔄 **五态状态机** — `待查阅 → 已查阅待解决 → 进行中 → 已解决 / 已忽略`
 - 🎯 **五类操作** — 创建 · 更新状态 · 编辑正文 · 检索 · 删除
 - 🔨 **批量更新** — 按条件筛选后批量流转（需用户确认）

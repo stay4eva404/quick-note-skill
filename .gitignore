@@ -9,6 +9,9 @@
 *.swo
 *~
 
+# Agent session data
+.zcode/
+
 # OS
 Thumbs.db
 .DS_Store
