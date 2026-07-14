@@ -126,7 +126,7 @@ No other dependencies needed. Briefly confirm when done.
 
 ```
 👤 You: The login timeout error isn't handled here-jot it down, I'll look at it later
-🤖 AI: Saved to .quicknote/2026-07-02-1430_LoginTimeoutUnhandled.md 📝 (status: to-review)
+🤖 AI: Saved to docs/quicknote/2026-07-02-1430_LoginTimeoutUnhandled.md 📝 (status: to-review)
 
 👤 You: I've started working on the login timeout one
 🤖 AI: Updated 2026-07-02-1430_LoginTimeoutUnhandled.md: to-review -> in-progress ✅
@@ -192,8 +192,8 @@ No other dependencies needed. Briefly confirm when done.
 
 | Project Type | Default Directory | Notes |
 |:--------:|:--------:|------|
-| Any project | `.quicknote/` | 🌟 Recommended default; dot prefix keeps it hidden |
-| Existing `docs/quicknote/` | `docs/quicknote/` | ↩️ Backward compatible; auto-reused |
+| Any project | `docs/quicknote/` | 🌟 Recommended default; visible to agents on `ls`, easier to consult |
+| Existing `.quicknote/` | `.quicknote/` | ↩️ Backward compatible; auto-reused |
 
 **Filename Rules**
 
@@ -261,7 +261,7 @@ history: []
 ```
 👤 You: The login timeout error isn't handled here-jot it down, I'll look at it later
 
-🤖 AI  : Saved to .quicknote/2026-07-02-1430_LoginTimeoutUnhandled.md 📝
+🤖 AI  : Saved to docs/quicknote/2026-07-02-1430_LoginTimeoutUnhandled.md 📝
          (status: to-review)
 ```
 
