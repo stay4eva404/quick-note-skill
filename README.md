@@ -81,7 +81,7 @@ QuickNote 是一个**通用 Agent Skill**，遵循 [Anthropic Agent Skills](http
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/stay4eva/quick-note-skill.git
+git clone https://github.com/stay4eva404/quick-note-skill.git
 
 # 2. 全局安装（以 Claude Code 为例，其他平台替换路径前缀即可）
 mkdir -p ~/.claude/skills/quicknote
@@ -103,7 +103,7 @@ cp quick-note-skill/SKILL.md ./.claude/skills/quicknote/SKILL.md
 不想手动操作的话，直接把下面这段复制给 AI Agent：
 
 ```markdown
-从 https://github.com/stay4eva/quick-note-skill 下载 SKILL.md，
+从 https://github.com/stay4eva404/quick-note-skill 下载 SKILL.md，
 放到当前 agent 的全局 skills 目录下的 quicknote/ 子目录中
 （Claude Code → ~/.claude/skills/，Codex → ~/.codex/skills/，
 Trae → ~/.trae/skills/，Cursor → ~/.cursor/skills/）。
@@ -422,7 +422,7 @@ quicknote-skill/
 
 <div align="center">
 
-**Made with ⚡ by [stay4eva](https://github.com/stay4eva)**
+**Made with ⚡ by [stay4eva404](https://github.com/stay4eva404)**
 
 如果这个 Skill 帮到了你，欢迎 ⭐ Star 支持
 

@@ -81,7 +81,7 @@ Copy SKILL.md into the global or project-level skills directory of your platform
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/stay4eva/quick-note-skill.git
+git clone https://github.com/stay4eva404/quick-note-skill.git
 
 # 2. Global install (Claude Code example; replace the path prefix for other platforms)
 mkdir -p ~/.claude/skills/quicknote
@@ -103,7 +103,7 @@ Restart your Agent session after installing; the skill auto-loads.
 If you'd rather not do it manually, just copy the following to your AI Agent:
 
 ```markdown
-Download SKILL.md from https://github.com/stay4eva/quick-note-skill
+Download SKILL.md from https://github.com/stay4eva404/quick-note-skill
 and place it under a quicknote/ subdirectory in the current agent's global skills directory
 (Claude Code -> ~/.claude/skills/, Codex -> ~/.codex/skills/,
 Trae -> ~/.trae/skills/, Cursor -> ~/.cursor/skills/).
@@ -423,7 +423,7 @@ Issues and Pull Requests welcome.
 
 <div align="center">
 
-**Made with ⚡ by [stay4eva](https://github.com/stay4eva)**
+**Made with ⚡ by [stay4eva404](https://github.com/stay4eva404)**
 
 If this Skill helped you, a ⭐ Star is appreciated
 
