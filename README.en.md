@@ -417,7 +417,7 @@ Issues and Pull Requests welcome.
 
 ## 📄 License
 
-[MIT License](LICENSE) © stay4eva
+[MIT License](LICENSE) © stay4eva(stay4eva404)
 
 ---
 

@@ -416,7 +416,7 @@ quicknote-skill/
 
 ## 📄 许可证
 
-[MIT License](LICENSE) © stay4eva
+[MIT License](LICENSE) © stay4eva(stay4eva404)
 
 ---
 
